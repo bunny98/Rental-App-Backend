@@ -14,8 +14,8 @@ Django Backend APIs for [Rental Mobile App in Flutter](https://github.com/bunny9
 
 ## API Endpoints
 
-* *upload/* GET Requests return all of the above mentioned fields
-* *upload/* POST Requests commit the posted data to the database after validating them and returns a copy of the committed data 
+* *upload/* : GET Requests return all of the above mentioned fields
+* *upload/* : POST Requests commit the posted data to the database after validating them and returns a copy of the committed data 
 
 ### Prerequisites
 
